@@ -1,0 +1,1 @@
+Dibujamos a un estudiante de la materia, levantándose para asistir a clases. Cuando la computadora del estudiante termina de iniciarse, abre el Google Meet de la clase y entra a la reunión. Por sorpresa del estudiante, su cámara está encendida por lo cual recurre a apagarla.
