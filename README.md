@@ -23,6 +23,7 @@ FrameBuffer con la siguiente configuración:
 - Tamaño en X = 640 píxeles
 - Tamaño en Y = 480 píxeles
 - Formato de color: ARGB de 32 bits
+
 El formato de colores se denomina ARGB, donde A es el alpha (transparencia), R es Red
 (rojo), G es Green (verde) y B es Blue (azul), el orden de la siglas determina el orden en que
 se ubican estos bits dentro de los 32 bits. Para cada uno de los componentes, el estándar
